@@ -1,3 +1,4 @@
+ HEAD
 # 💰 Controle Financeiro em Python
 
 Um sistema simples de controle financeiro desenvolvido em Python, ideal para pequenas empresas ou uso pessoal. Permite cadastrar receitas e despesas, calcular o saldo atual e listar todas as movimentações.
@@ -65,3 +66,7 @@ Salvar dados em arquivo .json ou .csv
 Interface gráfica com Tkinter
 
 Exportar relatórios financeiros
+
+# controle-financeiro
+Projeto simples de controle financeiro em Python
+ 1a5bdab7e898b9acdc36547161976a4bd02833c9
